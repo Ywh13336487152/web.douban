@@ -1,0 +1,9 @@
+    text-overflow: ellipsis;
+    text-align: center;
+    word-wrap: break-word;
+
+    超出变...
+
+    transform: rotate(45deg);容器倾斜角度
+
+        opacity: .8;不透明
